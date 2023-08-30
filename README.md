@@ -1,4 +1,4 @@
-# RAM
+# Register File
 $${\color{red}Verilog \space Design \space of \space 8 \space x \space 16 \space Register \space File }$$ 
 ### Register File Specification:
 - A register file consists of 8 registers, each register of 16-bit width. 

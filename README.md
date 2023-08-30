@@ -16,4 +16,4 @@ signal
 
 ![WhatsApp Image 2023-08-30 at 11 17 41](https://github.com/BassantAhmedElbakry/RAM/assets/104600321/71ea4cb2-a4da-49d1-a50b-f83e6f62ae5b)
 
-<font style="color: red"> Verilog Design of 8 x 16 Register File </font>
+<span style="color: red"> Verilog Design of 8 x 16 Register File </span>

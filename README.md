@@ -1,8 +1,8 @@
 # RAM
-##                             Verilog Design of 8 x 16 Register File
+## Verilog Design of 8 x 16 Register File
 ### Register File Specification:
 - A register file consists of 8 registers, each register of 16-bit width. 
-<br>- The register file has read data bus(RdData), write data 
+- The register file has read data bus(RdData), write data 
 bus(WrData) and one address bus (Address) used for both read 
 and write operations.
 <br>- Each register can be read and written by applying a register 
